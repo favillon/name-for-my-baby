@@ -1,0 +1,18 @@
+{
+  "name": "name-for-my-baby",
+  "version": "1.0.0",
+  "description": "look for my baby's name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "name",
+    "baby"
+  ],
+  "author": "favillon <favillon@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^15.0.2"
+  }
+}
