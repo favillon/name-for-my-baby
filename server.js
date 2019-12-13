@@ -1,4 +1,4 @@
-var port       = 3000;
+var port       = process.env.PORT || 3000
 var staticPage = __dirname + '/public/';
 
 let ts = Date.now();
