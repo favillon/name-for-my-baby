@@ -2,7 +2,7 @@
   "name": "name-for-my-baby",
   "version": "1.0.0",
   "description": "look for my baby's name",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,6 +13,6 @@
   "author": "favillon <favillon@hotmail.com>",
   "license": "ISC",
   "dependencies": {
-    "yargs": "^15.0.2"
+    "express": "^4.17.1"
   }
 }
